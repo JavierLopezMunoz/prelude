@@ -1,5 +1,6 @@
 *~
 *.elc
+anaconda-mode/
 auto-save-list
 recentf
 savehist
@@ -30,3 +31,4 @@ transient/
 var/
 .cache/
 .lsp-session*
+org-clock-save.el
