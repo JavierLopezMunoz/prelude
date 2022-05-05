@@ -56,11 +56,6 @@
 
 (setq whitespace-line-column 88)
 
-;; org-mode
-;;
-
-(setq org-agenda-files '("/home/javi/personal/org/bsurance.org"))
-
 ;; https://stackoverflow.com/questions/61684949/time-formatting-for-org-clocktable-report
 (setq org-duration-format 'h:mm)
 
